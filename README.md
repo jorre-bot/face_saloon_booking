@@ -1,6 +1,6 @@
 # face_saloon_booking
 
-A new Flutter project.
+My Flutter project During Degree semester 5.
 
 ## Getting Started
 
